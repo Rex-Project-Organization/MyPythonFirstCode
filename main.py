@@ -1,5 +1,5 @@
 """
-This's my Firs Python Code
+This is my First Python Code
 """
 
 print('hello word')
